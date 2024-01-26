@@ -71,7 +71,7 @@ The Electronic Door Lock System project taught me the intricacies of microcontro
 This project served as a look under the hood of an actual product by learning its low level assembly implementation. Future improvements include interfacing with a locking mechanism to create a functional lock.
 
 ## Contributors
-This project was developed and is currently maintained by Anshul Gowda and Rafa Ragel de la Tejera.
+This project was developed and is currently maintained by Anshul Gowda and Rafael Ragel de la Tejera.
 
 ## Get in Contact:
  [Anshul Gowda's LinkedIn](https://www.linkedin.com/in/anshul-gowda)
